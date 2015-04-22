@@ -16,6 +16,7 @@ Shortcodes:
 [gridbox] - Allows you to show a grid with post types related.
 
 Parameters:
+
 - post_type -> slug of Post type that you want to show.
 - posts_per_page -> 
 - col -> Columns that you want to show.
@@ -26,6 +27,8 @@ Parameters:
 [imagepostslider] - Image Slider from Images attached in a post
 
 [carouselcpt] - Multiple elements Carousel 
+
+Parameters:
 
 - post_type -> slug of Post type that you want to show.
 - tax -> Show Taxonomy that the post in.
